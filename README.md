@@ -1,2 +1,4 @@
-# tetris
-The classic tetris game in C++
+# Tetris
+
+The classic Tetris game needs no introduction.
+This is a clone written in C++ using SFML.
